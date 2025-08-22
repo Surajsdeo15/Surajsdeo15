@@ -79,6 +79,7 @@ I provide end-to-end freelancing services including:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 
+*Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate.* 🚀
 
 
 
