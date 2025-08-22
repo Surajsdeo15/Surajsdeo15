@@ -78,15 +78,11 @@ I provide end-to-end freelancing services including:
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-
-*Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate.* 🚀
-
-
-
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
+*Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate.* 🚀
 
