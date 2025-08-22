@@ -4,13 +4,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shivam-kumar-6801421ab](https://www.linkedin.com/in/suraj-singh-deo/))
 
 
-
 ## 🚀 About Me
 
 **Software Engineer  |  India** 
 
 I'm a passionate **Software Engineer** focused on building **modern web applications** and **innovative solutions**.  
 With expertise in **React, TypeScript, and various web technologies**, I love creating **user-friendly applications** that solve real-world problems.  
+
+## 💼 Freelancing Services
+
+I provide end-to-end freelancing services including:  
+- 🌐 **Full-Stack Web Development** 
+- 🎨 **UI/UX Design** (Figma)
+- ⚡ **Real-time Applications** (Socket.IO, WebRTC)  
+- 📊 **Data Visualization & Monitoring** 
+
+💡 Available for **freelance collaborations** → [LinkedIn](https://www.linkedin.com/in/suraj-singh-deo/) | ✉️ **surajsinghdeo9@gmail.com**
 
 
 ## 🚀 Featured Projects
